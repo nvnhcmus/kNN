@@ -1,0 +1,15 @@
+﻿@attribute age INTERGER
+@attribute gender INTERGER
+@attribute incoming INTERGER
+@attribute numcard INTERGER
+@attribute response INTERGER
+35,1,35,3,1
+22,1,50,2,0
+28,0,40,1,1
+45,0,100,2,0
+20,0,30,3,1
+34,1,55,2,0
+63,1,200,1,0
+55,0,140,2,0
+59,1,170,1,0
+25,0,40,4,1

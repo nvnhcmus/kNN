@@ -1,0 +1,12 @@
+﻿@attribute age NUMBER
+@attribute gender TEXT
+@attribute incoming NUMBER
+@attribute numcard NUMBER
+@attribute response TEXT
+35,Male,35,3,No
+35,Male,35,3,Yes
+35,Male,35,3,Yes
+35,Male,35,3,No
+22,Male,50,2,No
+28,Female,40,1,Yes
+34,Male,54,3,Yes

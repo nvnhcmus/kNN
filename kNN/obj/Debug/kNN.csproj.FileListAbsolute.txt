@@ -1,0 +1,8 @@
+E:\Advanced in C\kNN\kNN\bin\Debug\kNN.exe.config
+E:\Advanced in C\kNN\kNN\bin\Debug\kNN.exe
+E:\Advanced in C\kNN\kNN\bin\Debug\kNN.pdb
+E:\Advanced in C\kNN\kNN\obj\Debug\kNN.frmMain.resources
+E:\Advanced in C\kNN\kNN\obj\Debug\kNN.Properties.Resources.resources
+E:\Advanced in C\kNN\kNN\obj\Debug\kNN.csproj.GenerateResource.Cache
+E:\Advanced in C\kNN\kNN\obj\Debug\kNN.exe
+E:\Advanced in C\kNN\kNN\obj\Debug\kNN.pdb
